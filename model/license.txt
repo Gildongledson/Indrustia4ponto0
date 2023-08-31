@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pliers for electricians
+* source:	https://sketchfab.com/3d-models/pliers-for-electricians-fcfb0a7fa8b1410488c801ff591fdddf
+* author:	3dhdscan (https://sketchfab.com/3dhdscan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pliers for electricians" (https://sketchfab.com/3d-models/pliers-for-electricians-fcfb0a7fa8b1410488c801ff591fdddf) by 3dhdscan (https://sketchfab.com/3dhdscan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

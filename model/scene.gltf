@@ -1,0 +1,294 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 51943,
+      "max": [
+        20.345783233642578,
+        2.120347023010254,
+        6.072455406188965
+      ],
+      "min": [
+        -20.365062713623047,
+        -2.2382426261901855,
+        -5.963167667388916
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 623316,
+      "componentType": 5126,
+      "count": 51943,
+      "max": [
+        0.9998771548271179,
+        0.9999997019767761,
+        0.999997079372406
+      ],
+      "min": [
+        -0.9998928904533386,
+        -0.9999998211860657,
+        -0.9999985098838806
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 51943,
+      "max": [
+        0.9999907612800598,
+        0.9999910593032837,
+        0.9977808594703674,
+        1.0
+      ],
+      "min": [
+        -1.0,
+        -0.9999927282333374,
+        -0.9999831914901733,
+        -1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 51943,
+      "max": [
+        0.9984999895095825,
+        0.987699031829834
+      ],
+      "min": [
+        0.001500000013038516,
+        0.001500000013038516
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 299880,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "3dhdscan (https://sketchfab.com/3dhdscan)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/pliers-for-electricians-fcfb0a7fa8b1410488c801ff591fdddf",
+      "title": "Pliers for electricians"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1199520,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 415544,
+      "byteOffset": 1199520,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1246632,
+      "byteOffset": 1615064,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 831088,
+      "byteOffset": 2861696,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3692784,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/kleste_100k_DiffuseMap_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/kleste_100k_DiffuseMap_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/kleste_100k_DiffuseMap_normal.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "name": "kleste_100k_DiffuseMap",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0,
+        "metallicRoughnessTexture": {
+          "index": 1
+        },
+        "roughnessFactor": 0.5653582317073171
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "kleste_100k_kleste_100k_DiffuseMap_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.6319403052330017,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.4031893541166556e-16,
+        -0.6319403052330017,
+        0.0,
+        0.0,
+        0.6319403052330017,
+        1.4031893541166556e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "kleste.FBX"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.2204459996194763e-18,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        2.2204459996194763e-18,
+        0.0,
+        0.04509832337498665,
+        0.05958384647965431,
+        -0.005437326617538929,
+        1.0
+      ],
+      "name": "kleste_100k"
+    },
+    {
+      "mesh": 0,
+      "name": "kleste_100k_kleste_100k_DiffuseMap_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    },
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 33071,
+      "wrapT": 33071
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 1,
+      "source": 1
+    },
+    {
+      "sampler": 1,
+      "source": 2
+    }
+  ]
+}
